@@ -74,6 +74,12 @@ Type `yes` when prompted.
 
 ---
 
+## Author
+
+**Saeedullah Shaikh**
+- GitHub: [@Saeedullahshaikh](https://github.com/Saeedullahshaikh)
+
+
 ## 📜 License
 
 This project is licensed under the MIT License.
